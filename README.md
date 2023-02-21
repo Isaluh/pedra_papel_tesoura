@@ -1,2 +1,32 @@
-# pedra_papel_tesoura
-Projeto - Pedra, papel ou tesoura. By: Isaluh
+<h1 align="center"> Pedra, papel ou tesoura </h1>
+
+<p align="center">
+Projeto feito com python usando a biblioteca tkinter.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Painel da Calculadora" src="./img_project/projeto.png" width="410px" height="400px">
+</p>
+
+## 🎓 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Python
+- Github
+
+## 📔 Projeto
+
+Projeto de estudos.
+
+
+---
+
+<h4 align="center">By: Isaluh 🤍</h4>
