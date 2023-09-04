@@ -2,7 +2,7 @@
 
 ## <img src='https://cdn.discordapp.com/emojis/1008814022923145368.webp?size=96&quality=lossless' width='25' height='25'>
 
-> Fassa o download do arquivo WinRar vinculado ao projeto.
+> Faça o download do arquivo WinRar vinculado ao projeto.
 
 ## <img src='https://cdn.discordapp.com/emojis/1008814051360510144.webp?size=96&quality=lossless' width='25' height='25'>
 
